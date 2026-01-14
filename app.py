@@ -15,14 +15,7 @@ GROUP_IDS = [
 ]
 
 API_URLS = [
-    "https://kamina-otp.up.railway.app/npm-neon/sms",
     "https://juanidniz-pw-orpin.vercel.app/api/Kumail?type=sms",
-    "https://kamina-otp.up.railway.app/d-group/sms",
-    "https://kamina-otp.up.railway.app/mait/sms",
-    "https://kami-broken.up.railway.app/api?type=sms",
-    "https://juanidniz-pw-orpin.vercel.app/api/tempotps?type=sms",
-    "https://teamlegend-gamma.vercel.app/api/dgroup?type=sms",
-    "https://api-kami-nodejs-production.up.railway.app/api?type=sms",
 ]
 
 def fetch_latest_otp(api_url):
