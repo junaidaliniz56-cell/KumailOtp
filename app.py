@@ -15,7 +15,8 @@ GROUP_IDS = [
 ]
 
 API_URLS = [
-    "https://juanidniz-pw-orpin.vercel.app/api/Kumail?type=sms",
+    "https://apiotps.vercel.app/api/Kumail?type=sms",
+    "https://apiotps.vercel.app/api/tempotps?type=sms",
 ]
 
 def fetch_latest_otp(api_url):
