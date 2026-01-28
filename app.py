@@ -122,7 +122,7 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by Kumail Khan 💗 
+Powered by Kumail Khan 🔥
 """
 
 
